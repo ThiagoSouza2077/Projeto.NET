@@ -1,0 +1,9 @@
+C:\Users\thiag\Documents\Projetos\Projeto1\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\thiag\Documents\Projetos\Projeto1\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\thiag\Documents\Projetos\Projeto1\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\thiag\Documents\Projetos\Projeto1\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Projetos\Projeto1\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\thiag\Documents\Projetos\Projeto1\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\thiag\Documents\Projetos\Projeto1\Apresentacao\obj\Debug\Apresentacao.exe
+C:\Users\thiag\Documents\Projetos\Projeto1\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\thiag\Documents\Projetos\Projeto1\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources

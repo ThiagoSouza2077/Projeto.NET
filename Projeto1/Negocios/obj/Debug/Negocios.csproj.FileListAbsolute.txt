@@ -1,0 +1,9 @@
+C:\Users\thiag\Documents\Projetos\Projeto1\Negocios\bin\Debug\Negocios.dll
+C:\Users\thiag\Documents\Projetos\Projeto1\Negocios\bin\Debug\Negocios.pdb
+C:\Users\thiag\Documents\Projetos\Projeto1\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\thiag\Documents\Projetos\Projeto1\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\thiag\Documents\Projetos\Projeto1\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\thiag\Documents\Projetos\Projeto1\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\thiag\Documents\Projetos\Projeto1\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Projetos\Projeto1\Negocios\obj\Debug\Negocios.dll
+C:\Users\thiag\Documents\Projetos\Projeto1\Negocios\obj\Debug\Negocios.pdb

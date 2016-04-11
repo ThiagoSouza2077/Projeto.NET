@@ -1,0 +1,6 @@
+C:\Users\thiag\Documents\Projetos\Projeto1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\thiag\Documents\Projetos\Projeto1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\thiag\Documents\Projetos\Projeto1\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\thiag\Documents\Projetos\Projeto1\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\thiag\Documents\Projetos\Projeto1\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\thiag\Documents\Projetos\Projeto1\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
